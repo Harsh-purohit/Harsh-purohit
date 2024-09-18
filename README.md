@@ -36,7 +36,7 @@ Here are some projects I’m currently working on:
 
 ### How to Reach Me
 - **Email**: harshpurohit7190@gmail.com
-- **LinkedIn**: [linkedin.com/in/harshpurohit](https://linkedin.com/in/harshpurohit)
+- **LinkedIn**: [linkedin.com/in/harshpurohit](https://www.linkedin.com/in/harsh-purohit-aa8683250/)
 - **GitHub**: [github.com/harshpurohit](https://github.com/Harsh-purohit)
 
 Feel free to connect with me or check out my repositories! 🚀
