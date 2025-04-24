@@ -47,7 +47,7 @@ I'm a 3rd-year Computer Science student passionate about building full-stack app
 Here are a few things I’m working on:
 
 - **Imagify**  
-  
+  Imagify is a full-stack web application that allows users to generate stunning images from text prompts using AI-powered tools. The project is built with a React frontend and a Node.js backend, integrated with   PostgreSQL for database management.
 
 - **Node.js Blog App**  
   A minimal blog application built using **Node.js**, **Express.js**, and **EJS**. It doesn’t use a database yet — great for learning the basics of routing and back-end logic.
